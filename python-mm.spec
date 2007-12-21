@@ -8,6 +8,7 @@ Source0: http://mesh.dl.sourceforge.net/sourceforge/mmpython/%{pkgname}-%{versio
 License: LGPL
 URL: http://sourceforge.net/projects/mmpython/
 Group: Development/Python
+BuildRoot: %{_tmppath}/%{name}-%{version}-buildroot
 BuildRequires: python-devel
 BuildRequires: libdvdread-devel
 
