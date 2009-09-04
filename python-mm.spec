@@ -3,7 +3,7 @@
 Summary: Python Media Meta Data retrieval framework
 Name: python-mm
 Version: 0.4.10
-Release: %mkrel 4
+Release: %mkrel 5
 Source0: http://mesh.dl.sourceforge.net/sourceforge/mmpython/%{pkgname}-%{version}.tar.bz2
 License: LGPL
 URL: http://sourceforge.net/projects/mmpython/
