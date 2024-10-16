@@ -6,7 +6,7 @@ Version: 0.4.10
 Release: %mkrel 5
 Source0: http://mesh.dl.sourceforge.net/sourceforge/mmpython/%{pkgname}-%{version}.tar.bz2
 License: LGPL
-URL: http://sourceforge.net/projects/mmpython/
+URL: https://sourceforge.net/projects/mmpython/
 Group: Development/Python
 BuildRoot: %{_tmppath}/%{name}-%{version}-buildroot
 BuildRequires: python-devel
